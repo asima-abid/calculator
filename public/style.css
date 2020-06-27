@@ -1,0 +1,58 @@
+/* .table{
+    background-color: bisque;
+    margin-left: 600px;
+}
+.table tr td{
+    background-color: honeydew;
+} */
+/* .a{
+    background-color: rebeccapurple;
+    width: 100px;
+    height: 100px;
+} */
+body{
+    background-image: url(background.png);
+    /* background-size: 1600px;
+    background-repeat: no-repeat; */
+}
+.button{
+    width: 80px;
+    height:80px;
+    font-size:35px;
+    margin: 2px;
+    background-color:   #2267C1 ;
+    color: white;
+    cursor: pointer;
+    border-radius: 50px;
+}
+/* .textview{
+    width: 223px;
+    margin: 5px;
+    height: 50px;
+    font-size: 25px;
+#FF5733 #92E125
+} */
+.main{
+    padding-left: 20px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    /* border: 2px solid black; */
+    width: 700px ;
+    margin: 0 auto;
+}
+.result{
+    width: 50%;
+    height: 90px;
+    font-size: 35px;
+    background-color:  #53EFD1;
+    border-radius: 10px;
+
+    
+}
+.half{
+    width: 96px;
+    height:50px;
+    font-size:25px;
+    margin: 2px;
+    cursor: pointer;
+}
